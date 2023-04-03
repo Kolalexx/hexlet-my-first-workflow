@@ -1,0 +1,18 @@
+{
+    "name": "kolalexx/hexlet-my-first-workflow",
+    "autoload": {
+        "psr-4": {
+            "Kolalexx\\HexletMyFirstWorkflow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksei Kolesnikov",
+            "email": "kolalexx@yandex.ru"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/hello"
+      ]
+}
